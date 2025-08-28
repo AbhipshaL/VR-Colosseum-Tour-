@@ -19,3 +19,8 @@ Blender / 3D Assets – For modeling and texturing the Colosseum
 **Purpose**
 
 The project demonstrates how computer graphics and immersive technologies can be used for educational storytelling, allowing users to experience history in a more engaging and interactive way.
+
+
+**Link to the video:**
+https://drive.google.com/file/d/1JSfLoAx-F7vAkyCKN8DEP_Oo-ln1CK2b/view?usp=drive_link
+
